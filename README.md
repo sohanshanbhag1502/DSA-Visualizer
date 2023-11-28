@@ -1,3 +1,3 @@
 # DSA Visualizer
 
-This a console which visualizes various data structures.
+This a console app which visualizes various data structures.
